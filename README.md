@@ -2,6 +2,11 @@
 
 My first Python calculator project, built using Tkinter.
 
+
+## Screenshot
+
+![Python Calculator](Capture.PNG)
+
 ## Features
 
 * Addition, subtraction, multiplication, and division
