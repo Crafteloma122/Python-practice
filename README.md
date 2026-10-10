@@ -1,6 +1,6 @@
 # Python Calculator 🧮
 
-My first Python calculator project, built using Tkinter.
+My first Python project (Calculator), built using Tkinter.
 
 
 ## Screenshot
